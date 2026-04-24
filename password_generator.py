@@ -8,7 +8,7 @@ Usage:
     Run the script and answer the three prompts.
     The generated password will be printed to the terminal.
 
-Part of the Angela Yu Python Bootcamp - Beginner section.
+A beginner Python project demonstrating use of lists, loops, and randomization.
 """
 
 import random
